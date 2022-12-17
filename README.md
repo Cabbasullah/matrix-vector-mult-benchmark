@@ -84,7 +84,7 @@
 # Outcome Validation
 [a directory that contains executable files of matrix-vector multiplication where the result can be validated using python3 and C]
    #### How to run?
-main.c \
+main.c 
    * Compile
     
 ```
